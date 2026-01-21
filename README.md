@@ -2,15 +2,15 @@ Movieweb is a React-based movie web application that provides users with an inte
 
 🔍 Features
 
-🔎 Movie Search: Users can search for movies by keywords.
-🎬 Movie Results Display: Lists movies dynamically based on user search or popular/fetch calls.
-📝 Movie Details Page: Shows detailed information like title, release date, description, poster, and more (if implemented).
-📱 Responsive UI: Layout adapts to different screen sizes.
-⚙️ Environment Configurable: Uses environment variables for API keys and configuration
+<br>🔎 Movie Search: Users can search for movies by keywords.</br>
+<br>🎬 Movie Results Display: Lists movies dynamically based on user search or popular/fetch calls.</br>
+<br>📝 Movie Details Page: Shows detailed information like title, release date, description, poster, and more (if implemented).</br>
+<br>📱 Responsive UI: Layout adapts to different screen sizes.</br>
+<br>⚙️ Environment Configurable: Uses environment variables for API keys and configuration</br>
 
 Tech Stack
 
-React — UI library for building dynamic components
-JavaScript (ES6+) — Core language
-CSS / HTML — Styling and markup
-External Movie API — For fetching movies and media data (API key required)
+<br>React — UI library for building dynamic components</br>
+<br>JavaScript (ES6+) — Core language</br>
+<br>CSS / HTML — Styling and markup</br>
+<br>External Movie API — For fetching movies and media data (API key required)</br>
